@@ -2,7 +2,7 @@
 
 [English](README_EN.md)
 
-一個專為 DMM GAMES PC 版《學園偶像大師》（官方英文品牌：**THE IDOLM@STER Gakuen**）設計的輕量啟動器。
+一個專為 DMM GAMES PC 版《學園偶像大師》設計的輕量啟動器，提供一個快速啟動遊戲的方式取代 DMM 啟動。
 
 平常使用上一次由官方 DMM 成功產生的啟動資料，直接開啟 `gakumas.exe`；只有遊戲需要更新、登入失效或啟動資料失效時，才需要再次開啟 DMM。
 
