@@ -1,0 +1,13 @@
+dist/
+artifacts/
+release/
+*.user
+*.suo
+*.tmp
+credentials.dat
+launcher.log
+authAccessTokenData.enc
+Local State
+dll.log
+dmmgame.cnf
+Gakumas-API-Diagnostic-*.txt
