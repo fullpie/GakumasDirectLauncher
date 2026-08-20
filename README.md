@@ -16,7 +16,9 @@
 - 已透過 DMM 安裝《學園偶像大師》PC 版
 
 ## 第一次使用
-0.下載exe 也可以自行編譯
+
+**[前往 GitHub Releases 下載 EXE](https://github.com/fullpie/GakumasDirectLauncher/releases/latest)**，也可以依照下方「從原始碼建置」自行編譯。
+
 1. 先連上可使用 DMM 的日本網路出口。
 2. 從官方 DMM Game Player 成功啟動《學園偶像大師》一次。
 3. 關閉 DMM。
